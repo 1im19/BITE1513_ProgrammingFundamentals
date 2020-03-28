@@ -1,6 +1,4 @@
 # BITE1513_ProgrammingFundamentals
 A C++ Project that contains solution of BITE1513 - Programming Fundamentals's Lab Exercise Solution
 
-This repository is created for a reference for a basic C++ Programming.
-The topics that is covered in this subject is sequence, selection, repetition, function, string, array and file.
-Comments are added at some lines of code for explanation.
+BITE1513 Programming Fundamentals is a subject that teaches basics of C++ Programming. It consists of sequences, condition (if...else), loops (for, while, do while), function, String, Array and File. 1 cpp file contains all solution and it's used for learning, reference and revision tool.
