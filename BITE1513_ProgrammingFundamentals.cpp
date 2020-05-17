@@ -998,7 +998,7 @@ void lab6question4v2(char (&character4)[200], bool &isCat1, string animal1[5])
 			cout << character4[j1];
 		}
 
-		if (character4[0] = 'C' && character4[1] == 'A' && character4[2] == 'T')
+		if (character4[0] == 'C' && character4[1] == 'A' && character4[2] == 'T')
 		{
 			isCat1 = true;
 		}
