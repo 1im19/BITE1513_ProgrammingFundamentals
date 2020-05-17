@@ -1116,7 +1116,7 @@ void lab6question6v1(string (&name2)[10], string (&IC1)[10],char (&character6)[2
 	}
 }
 
-void lab6question6v2(char (&oldest1)[7], char (&character7)[200], string (&oldest2), string name2[10], string IC1[10])
+void lab6question6v2(char (&oldest1)[7], char (&character7)[200], string &oldest2, string name2[10], string IC1[10])
 {
 	int j3 = 0;
 	oldest1[0] = '9', oldest1[1] = '9', oldest1[2] = '1', oldest1[3] = '2', oldest1[4] = '3', oldest1[5] = '1';
